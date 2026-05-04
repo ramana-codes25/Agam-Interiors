@@ -37,4 +37,6 @@ HTML5 • CSS3 • JavaScript
 
 ## Creator
 Ramana R
+https://github.com/ramana-codes25/
+
 Built with creative direction and AI-assisted development.
